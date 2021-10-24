@@ -1,0 +1,8 @@
+{
+  name: "infinity-liquid",
+  displayName: "Infinity Liquid"
+  author: "Inconsequential",
+  description: "Adds the Infinity Liquid from NewHorizon back into Mindustry.",
+  minGameVersion: "126",
+  version: "1.0"
+}
